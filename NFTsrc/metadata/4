@@ -1,0 +1,35 @@
+{
+  "name": "DouShare #4",
+  "description": "A collection of 5,555 cute DouShare! Here we are,I am testing your life,glad to see you here !",
+  "image": "https://gateway.pinata.cloud/ipfs/QmRX1o5gia48wgz2rhMLH3NQyzw2exAmZfYEtkXxAd7UvW/4.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Beach"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Beige"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Thai"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Confused"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "None"
+    }
+  ]
+}

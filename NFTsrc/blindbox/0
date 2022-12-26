@@ -1,0 +1,35 @@
+{
+  "name": "DouShare BlindBox",
+  "description": "A collection of 5,555 cute DouShare! Let's waitting to unbox!",
+  "image": "https://gateway.pinata.cloud/ipfs/QmPTBjVZR4ahTyQVSWLPj3jG2Ym13y6TDtBgUkBSVhjwB3/src=http___pic1.zhimg.com_50_v2-7acc94c1b8ca2c6cffa56207169a8ef6_hd.jpg&refer=http___pic1.zhimg.jpg",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Waitting"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Waitting"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Waitting"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Waitting"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Waitting"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Waitting"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Waitting"
+    }
+  ]
+}
